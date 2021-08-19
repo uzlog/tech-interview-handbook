@@ -4,9 +4,16 @@
         <title>Tech Interview Handbook Blog</title>
         <link>https://techinterviewhandbook.org/blog</link>
         <description>Tech Interview Handbook Blog</description>
-        <lastBuildDate>Thu, 28 May 2020 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Facebook Career Q&A]]></title>
+            <link>https://techinterviewhandbook.org/blog/facebook-career-questions-and-answers</link>
+            <guid>facebook-career-questions-and-answers</guid>
+            <pubDate>Thu, 19 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[A number of students from the Project Intern group have been asking me questions related to Facebook internships, working at Facebook, and my personal journey. I decided to write down my answers in the form of a blog post so they can be shared more broadly and I can point people to this blog post in future whenever I get asked similar questions.]]></description>
+        </item>
         <item>
             <title><![CDATA[Summing Root To Leaf Numbers]]></title>
             <link>https://techinterviewhandbook.org/blog/summing-root-to-leaf-numbers</link>
