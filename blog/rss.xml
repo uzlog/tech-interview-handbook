@@ -21,5 +21,12 @@
             <pubDate>Thu, 28 May 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Sum Root to Leaf Numbers is an interesting problem from LeetCode. The problem is of medium difficulty and is about binary trees. This post is an explained solution to the problem.]]></description>
         </item>
+        <item>
+            <title><![CDATA[Are Front End Development Skills Enough for a Career?]]></title>
+            <link>https://techinterviewhandbook.org/blog/are-front-end-development-skills-enough-for-a-career</link>
+            <guid>are-front-end-development-skills-enough-for-a-career</guid>
+            <pubDate>Sun, 03 Nov 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Recently, an undergrad freshmen I met at an event asked me a question regarding Front End development as a career.]]></description>
+        </item>
     </channel>
 </rss>
