@@ -13,6 +13,10 @@
         <link href="https://techinterviewhandbook.org/blog/front-end-career-questions"/>
         <updated>2021-08-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Recently a junior front end engineer at a startup in Singapore reached out to me to ask me how front end development as a career.]]></summary>
+        <author>
+            <name>Yangshun Tay</name>
+            <uri>https://github.com/yangshun</uri>
+        </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Facebook Career Q&A]]></title>
@@ -20,6 +24,10 @@
         <link href="https://techinterviewhandbook.org/blog/facebook-career-questions-and-answers"/>
         <updated>2021-08-19T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[A number of students from the Project Intern group have been asking me questions related to Facebook internships, working at Facebook, and my personal journey. I decided to write down my answers in the form of a blog post so they can be shared more broadly and I can point people to this blog post in future whenever I get asked similar questions.]]></summary>
+        <author>
+            <name>Yangshun Tay</name>
+            <uri>https://github.com/yangshun</uri>
+        </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Importance of Communicating Effectively as Engineers]]></title>
@@ -27,6 +35,10 @@
         <link href="https://techinterviewhandbook.org/blog/importance-of-communicating-effectively-as-engineers"/>
         <updated>2021-04-12T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[_tl;dr: communicating effectively broadly and frequently helps you grow as an engineer and we have many tools built to do that!_]]></summary>
+        <author>
+            <name>Yangshun Tay</name>
+            <uri>https://github.com/yangshun</uri>
+        </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Summing Root To Leaf Numbers]]></title>
@@ -34,6 +46,10 @@
         <link href="https://techinterviewhandbook.org/blog/summing-root-to-leaf-numbers"/>
         <updated>2020-05-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Sum Root to Leaf Numbers is an interesting problem from LeetCode. The problem is of medium difficulty and is about binary trees. This post is an explains the solution to the problem.]]></summary>
+        <author>
+            <name>Raivat Shah</name>
+            <uri>https://github.com/raivatshah</uri>
+        </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Are Front End Development Skills Enough for a Career?]]></title>
@@ -41,5 +57,9 @@
         <link href="https://techinterviewhandbook.org/blog/are-front-end-development-skills-enough-for-a-career"/>
         <updated>2019-11-03T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Recently, an undergrad freshmen I met at an event asked me a question regarding Front End development as a career.]]></summary>
+        <author>
+            <name>Yangshun Tay</name>
+            <uri>https://github.com/yangshun</uri>
+        </author>
     </entry>
 </feed>
