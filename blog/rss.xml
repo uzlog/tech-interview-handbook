@@ -4,9 +4,16 @@
         <title>Tech Interview Handbook Blog</title>
         <link>https://techinterviewhandbook.org/blog</link>
         <description>Tech Interview Handbook Blog</description>
-        <lastBuildDate>Sat, 28 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[My Experience With Front End Interviews]]></title>
+            <link>https://techinterviewhandbook.org/blog/my-experience-with-front-end-interviews</link>
+            <guid>my-experience-with-front-end-interviews</guid>
+            <pubDate>Mon, 30 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[A glimpse into the front end interview process and questions that frequently come up.]]></description>
+        </item>
         <item>
             <title><![CDATA[Front End Career Questions]]></title>
             <link>https://techinterviewhandbook.org/blog/front-end-career-questions</link>
